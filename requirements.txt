@@ -1,4 +1,4 @@
-genai
+google-generativeai
 streamlit
 pandas
-datetime
+
